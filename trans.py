@@ -13,10 +13,9 @@ f = open("or_train.txt", "w", encoding="utf-8")
 
 # f.close()
 
-
 ####
 import io
-with jsonlines.open('or_train.jsonl') as reader:
+with jsonlines.open('train_data.jsonl') as reader:
     for line in reader.iter():
         for text in (line['messages']):
             sentence = text['text'].encode('utf-8')
