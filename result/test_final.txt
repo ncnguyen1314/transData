@@ -1606,7 +1606,7 @@ gặp bạn sau
 Xin chào
 Xin chào!
 Bạn có khỏe không?
-tốt bạn
+Khỏe bạn
 phim gì tôi cũng xem
 bạn muốn xem loại phim nào
 Bạn muốn giới thiệu phim gì?
@@ -1802,7 +1802,7 @@ Yeah, tôi nghĩ đó là một trong những bộ phim hay nhất mà tôi từ
 Chà, hy vọng tôi đã giúp được bạn
 tôi hy vọng tôi sẽ gặp lại bạn trong một cuộc trò chuyện khác
 Chúc bạn có một ngày tuyệt vời và tận hưởng buổi tối
-Có! nhưng anh ấy cảm thấy bị phản bội, và bị bỏ rơi! Anh ấy đang trút cơn tức giận của mình, điều đó thật đáng buồn! Rất vui được nói chuyện với bạn! Thank nhiều
+Có! nhưng anh ấy cảm thấy bị phản bội, và bị bỏ rơi! Anh ấy đang trút cơn tức giận của mình, điều đó thật đáng buồn! Rất vui được nói chuyện với bạn! Cảm ơn nhiều
 Chúc ngủ ngon
 Yeah, nhưng chống lại gia đình? anh ấy có thể đã làm hay hơn
 Chắc chắn !!! Sẽ hay hơn nếu nói ra
@@ -1903,7 +1903,7 @@ Ko có gì, thưởng thức!
 Chào
 Bạn cũng thích phim?
 Xin chào, bạn có khỏe không? Có, tôi thích thể thao và phim hài.
-Tôi vừa xem thử @138962 từ thư viện. Nó là một điều hài hước. Tôi vẫn chưa xem nó.
+Tôi vừa xem thử @138962 từ thư viện. Nó là một phim hài hước. Tôi vẫn chưa xem nó.
 bạn đã xem phim này chưa @90253? Nó có thể thao và nó vui nhộn.
 Hoặc @115155, bản cũ, nhưng thuộc loại kinh điển.
 Tôi chưa xem @138962. Tôi đã xem @90253.
@@ -2093,7 +2093,7 @@ Bạn cũng vậy!
 Chào
 Chào
 Bạn có khỏe không?
-Tốt
+Khỏe
 Bạn thích thể loại phim gì?
 Tôi thích phim hài và phim hành động
 Phim siêu anh hùng
@@ -2280,7 +2280,7 @@ tạm biệt, bạn gặp lại sau
 Chào, bạn thích thể loại phim gì?
 Chào
 Bạn có khỏe không?
-Tốt.
+Khỏe.
 Tôi thích những bộ phim lãng mạn
 @185139
 @100271 và @113035 từ năm ngoái là những bộ phim lãng mạn hay!
@@ -2618,7 +2618,7 @@ Bạn có những bộ phim hài thích không?
 Anh ấy rất vui tính
 Anh ấy biết cách làm cho mọi người mỉm cười
 bạn đã xem phim này chưa @162481?
-@100723 là một điều hài hước!
+@100723 là một phim hài hước!
 Tôi chưa xem phim đó
 Tôi không nhưng tôi nghe nói vui.
 tôi nghĩ tôi sẽ xem thử nó
@@ -3501,7 +3501,7 @@ cảm ơn!
 Vâng, @129997 là phim hay nhất.
 Không sao! Chúc bạn có một ngày tuyệt vời.
 Chào, bạn có khỏe không?
-Tốt lắm, bạn có gợi ý nào về bộ phim hài không?
+Khỏe lắm, bạn có gợi ý nào về bộ phim hài không?
 Chắc rồi, có @136983 hoặc @174475 hoặc @169487.
 Bạn đã xem phim nào trong số đó chưa?
 @136983 là một tác phẩm kinh điển, tôi đã xem nó cách đây hàng chục năm. Chắc chắn sẽ thích bất cứ  phim gì tương tự như phim đó. @169487 Tôi không thích phim đó, hài kịch ở đó thô tục. chưa xem @174475, bạn có thích phim đó không?
@@ -4761,7 +4761,7 @@ Tạm biệt
 Chào, bạn có khỏe không?
 Chào!
 Bạn có khỏe không?
-Tốt. Bạn thích những bộ phim nào?
+Khỏe. Bạn thích những bộ phim nào?
 Lãng mạn
 Bạn có thích @195012 không?
 Tôi rất thích phim đó!
@@ -7176,7 +7176,7 @@ Tôi đã thử xem @116897 nhưng đã ngủ quên.
 chưa từng nghe nói về nó
 @152789 là phim hay nhưng tôi thực sự rất thích @119144
 Yea đó toàn phim hay quá
-set is @119144
+đặc biệt là @119144
 Rất vui khi được nói chuyện với bạn. Chúc bạn có một ngày tuyệt vời
 tạm biệt
 tạm biệt bạn cũng vậy
@@ -7468,7 +7468,7 @@ Tôi chưa bao giờ xem phim đó, tôi sẽ xem thử
 Bạn có thể nghĩ về bất cứ điều gì khác?
 Tuyệt vời bạn cũng có thể thích @106233
 Ồ vâng, đó là một tác phẩm kinh điển!
-Thank nhiều
+Cảm ơn nhiều
 Tôi chưa xem @83552 mới nhưng tôi nghe nói nó cũng hay.
 Không có gì.
 Rồi, phim đó rất tuyệt vời
@@ -7492,7 +7492,7 @@ Haha vâng
 Chúc bạn có một ngày tuyệt vời
 okay thx tạm biệt
 Chào, bạn có khỏe không?
-Xin chào bạn có khỏe không? Bạn thích thể loại phim gì?
+Xin chào, bạn có khỏe không? Bạn thích thể loại phim gì?
 Bạn đã xem bộ hoạt hình nào hay như @165710 chưa
 Tôi thực sự thích một bộ hoạt hình hay. Tôi rất vui mừng cho @205724 ra mắt!
 Tôi cũng rất thích @81792
@@ -7526,7 +7526,7 @@ tôi chưa xem @187205
 Oh hay, chưa xem @165499 một kinh điển khác sẽ là @178711
 Nếu bạn chưa xem nó, bạn nên xem thử nó.
 Tuyệt vời, tôi xem thử phim đó
-Thank nhiều
+Cảm ơn nhiều
 Tạm biệt
 Không có gì.
 Tạm biệt.
@@ -7542,7 +7542,7 @@ Tôi đề nghị @184098 và @111429
 Nếu bạn chưa xem chúng.
 Tôi chưa bao giờ bắt được phim đó
 Ồ, bạn sẽ thích phim đó!
-Thank nhiều
+Cảm ơn nhiều
 Chúc bạn có một buổi chiều tuyệt vời
 Đồ họa cũng tuyệt vời!
 Bạn cũng vậy!
@@ -7626,7 +7626,7 @@ Xin chào
 Bộ phim yêu thích của bạn là gì?
 Chào. Bạn có thể vui lòng giới thiệu một bộ phim với Jennifer Aniston. Và tôi thích phim của tôi là @165952
 Tôi cũng hoàn toàn rất thích @106562
-Ồ tuyệt! Yes để tôi nghĩ ra
+Ồ tuyệt! Yes để tôi nghĩ đã
 Thế còn phim @92989?
 Oh tôi xin error
 Aniston
@@ -8050,7 +8050,7 @@ Oh tốt, tôi chưa xem nó. Có thể bạn như @196478. Bạn đã xem phim 
 Tôi có! tôi rất thích nó
 Bạn có thể nghĩ về bất cứ điều gì khác? tôi cũng rất thích @93739
 Hmm... Bạn có giới thiệu tất cả các phim Chúa tể của những chiếc nhẫn không? tôi chưa xem mấy phim đó! Có thể bạn như @176558?
-Tôi chưa từng xem phim đó! Thank nhiều
+Tôi chưa từng xem phim đó! Cảm ơn nhiều
 Chúc bạn có một ngày tuyệt vời
 Xin chào!
 Thể loại phim yêu thích của bạn là gì?
@@ -8401,7 +8401,7 @@ Bạn có thể nghĩ về bất cứ điều gì khác?
 Vâng, thật tốt, @88936
 Ian khá tốt
 Oh haha, phim đó hay
-Thank nhiều
+Cảm ơn nhiều
 Là*
 Tạm biệt
 Tạm biệt
@@ -8551,7 +8551,7 @@ Bây giờ bạn thích nhất là gì?
 Xin chào, tôi thích phim hành động hoặc lãng mạn. Bạn đề nghị điều gì?
 @117925 hoặc @121733 là đỉnh cao
 tôi cũng rất thích @112434 và @184870, bạn đã xem những phim đó chưa?
-tôi chưa xem phim nào trong số họ
+Tôi chưa xem phim nào trong số mấy phim đó
 tôi có một danh sách dài phía trước
 Oh jeez, well thế còn @142573?
 Tôi đã xem phim đó nhưng tôi muốn những thứ tôi chưa xem
@@ -8996,7 +8996,7 @@ Tôi rất thích tác phẩm kinh điển
 vâng tôi rất thích chúng, nhưng tôi đã xem!
 Tôi thích @180224
 Hãy để tôi nghĩ ..
-mất thời gian của bạn, tôi cần một phim tốt: D
+mất thời gian của bạn, tôi cần một phim hay: D
 Cá nhân tôi không phải là một fan cuồng của phim kinh dị. Tôi không thể ngủ vào ban đêm khi tôi xem chúng
 Bạn gái của tôi cũng vậy!
 Thế còn phim @80131? Thực sự đáng sợ
@@ -9173,7 +9173,7 @@ Trên thực tế, Chưa, tôi chưa xem.
 Tôi sẽ đưa nó vào danh sách của tôi.
 bạn nên xem nó rất thú vị. Rất vui được nói chuyện với bạn chúc một ngày vui vẻ
 Cảm ơn bạn cũng vậy! Giữ gìn sức khỏe.
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 Chào, cuối tuần của bạn thế nào cho đến nay?
 tôi vẫn khỏe. Bạn thích thể loại phim gì?
 Cuối tuần của tôi rất khỏe luôn cho đến nay, tôi chỉ đang nhìn vào một thương hiệu cho @205724
@@ -9186,7 +9186,7 @@ Chưa, tôi không biết @205435 có hay không? Tôi nhận thấy rằng nó 
 tôi thích phim đó.
 tôi sẽ thêm nó vào danh sách phim sẽ xem của mình. Rất vui được trò chuyện với bạn
 Giữ gìn sức khỏe
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 Xin chào, tôi khỏe, cảm ơn
 Bạn thích thể loại phim gì?
 tôi rất thích phim kinh dị hồi hộp @195148 là một trong những bộ phim yêu thích của tôi là bản gốc
@@ -9810,7 +9810,7 @@ Bạn có thể giới thiệu bất cứ điều gì khác?
 Có thể bạn sẽ thích @201971?
 Haha vâng tôi sẽ
 Phim đó hay thật sự của phần tiếp theo
-Thank nhiều
+Cảm ơn nhiều
 Chúc ngủ ngon
 tạm biệt và ngủ ngon!
 Xin chào!
@@ -9831,7 +9831,7 @@ Rất tuyệt, tôi chưa xem @92704 nhưng tôi thích @149720
 Bạn có biết gì khác không?
 @162882 cũng là một bộ phim tuyệt vời. Nó dài nhưng đáng giá!
 Ồ vâng, đó là phim kinh điển
-Thank nhiều
+Cảm ơn nhiều
 Chúc ngủ ngon
 Chúc ngủ ngon quá!
 Tôi đã xem một bộ phim tuyệt vời vào tuần trước.
@@ -9943,7 +9943,7 @@ Tôi đã xem phim đó đêm qua! Nó thật đẹp
 vâng tôi cũng thích phim đó
 có thể thử @101158 hoặc @157590
 Indiana Jones di chuyển là tuyệt vời
-set is @77684
+đặc biệt là @77684
 vâng, tôi cũng đã xem mấy phim đó rồi, nhưng tôi không thích chúng
 cái cuối cùng là ok, tôi vẫn chưa xem nó
 Cảm ơn!
@@ -10207,7 +10207,7 @@ Nghe có vẻ hay đấy, tôi sẽ thử xem xem sao
 Cảm ơn!
 tạm biệt
 Chào buổi tối! Bạn có khỏe không?
-Tốt lắm, bạn?
+Khỏe lắm, bạn?
 Tôi khỏe.
 Đang tìm phim hay để xem à?
 Yeah, tôi cảm thấy như đang xem một bộ phim kinh dị hay tối nay
@@ -10221,7 +10221,7 @@ bạn đã xem phim này chưa @205353?
 Tôi thấy rằng bộ phim có một chút 'meh'. Không đủ phim kinh dị.
 Hoặc @91140?
 Bây giờ nghe có vẻ thú vị. Tôi chưa bao giờ xem nó nhưng tôi chắc chắn sẽ thử xem thế nào
-Thank nhiều
+Cảm ơn nhiều
 Bạn nên. Vui thích.
 Tạm biệt
 Tạm biệt
@@ -10482,7 +10482,7 @@ Tôi cũng xem Ant man và tôi đang mong chờ phần tiếp theo
 Vâng bộ phim tuyệt vời. Vì vậy, tôi biết bạn đã xem @204870
 but all. Tôi sẽ không phải là một fan marvel nếu không
 Tất cả các đề xuất tuyệt vời
-Thank nhiều
+Cảm ơn nhiều
 Không có gì
 tạm biệt bây giờ
 Chúc bạn buổi tối vui vẻ
@@ -10639,14 +10639,14 @@ Hoàn hảo! Cảm ơn bạn!
 Haha tạm biệt
 Tạm biệt!
 Xin chào buổi tối của bạn thế nào?
-Xin chào, tôi hơi chán, tôi đang tìm một bộ phim. Một điều đó thật buồn cười nhưng không quá ngu ngốc. Tôi thích parody, giống @185493
+Xin chào, tôi hơi chán, tôi đang tìm một bộ phim. Một phim đó thật buồn cười nhưng không quá ngu ngốc. Tôi thích parody, giống @185493
 Được rồi, tuyệt bạn đã xem phim này chưa @199831
 Nó khá là buồn cười đối với tôi
 Hoặc @180926
 Ohhhhh rồi, tôi xem rồi! tôi rất thích bộ phim đó!
 Ôi, anh bạn, tôi đang bật cười khi chỉ nghĩ về điều đó!
 Tôi cần một phim tôi chưa xem, nhưng tôi có thể xem lại những phim đó!
-Được rồi, một phim gần đây hơn để tôi nghĩ ra
+Được rồi, một phim gần đây hơn để tôi nghĩ đã
 Cảm ơn! Tôi đánh giá cao những đề xuất của bạn, tôi rất hài lòng về hai điều còn lại!
 bạn đã xem phim này chưa @205435
 Có Jason Bateman trong đó nếu bạn là người hâm mộ
@@ -10996,7 +10996,7 @@ Tôi cũng rất thích @184098
 Gần như có phần tiếp theo với Ash từ @178604
 Bạn có thích @111429 không?
 Tôi thích @111429
-Tôi nghĩ rằng đó là một bộ phim tốt đẹp để không quá coi trọng.
+Tôi nghĩ rằng đó là một bộ phim hay đẹp để không quá coi trọng.
 Phần tiếp theo của @178604 sẽ rất tuyệt vời!
 Cảm ơn bạn đã đến thăm!
 Chúc ngủ ngon và tạm biệt!
@@ -11296,7 +11296,7 @@ Và @204157
 Ồ tuyệt, tôi chưa bao giờ xem phim đó
 Haha, vâng, tôi đã xem nó. Loại vui vẻ.
 Chắc chắn!
-Bạn thích những bộ phim nào khác?
+Bạn thích phim nào khác?
 Phim nước ngoài
 Ồ, thật là thú vị!
 Tôi không nghĩ tôi quen thuộc với nhiều bộ phim nước ngoài.
@@ -11511,7 +11511,7 @@ Cảm ơn, chúc một ngày vui vẻ
 Tốt lắm, tận sâu nhé.
 Lời chào hỏi
 Này, bạn có khỏe không?
-Tôi thích @150421, bạn có thể giới thiệu một phim gì đó giống như một điều bí ẩn không?
+Tôi thích @150421, bạn có thể giới thiệu một phim gì đó giống như một phim bí ẩn không?
 tôi khỏe
 @185445 là một trong những bộ phim yêu thích của tôi phim thần bí, tôi nghĩ bạn sẽ thích phim đó, nó cũng có Robert Downey Jr.
 Ồ tuyệt, tôi chỉ mới nghe nói về phim đó
@@ -11602,7 +11602,7 @@ phim hay
 cảm ơn bạn rất nhiều
 Không sao! Mong rằng bạn có một ngày tuyệt vời!
 Tạm biệt
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 Bạn có biết phim hài hay nào như @204331 hoặc @84273 cũng @140066
 tôi rất thích phim dành cho stoner, giống @84273 too
 tôi khỏe cảm ơn- Tôi từng xem @84273 Express (2008) và @140066
@@ -11728,7 +11728,7 @@ Chúc bạn có một ngày tuyệt vời
 Cảm ơn đã gợi ý!
 Chào bạn có khỏe không?
 Này Bạn có khỏe không?
-Tốt, cảm ơn!
+Khỏe, cảm ơn!
 Tôi khỏe đỉnh! cảm ơn!
 Bạn thích thể loại phim gì?
 Tôi đang tìm kiếm một vài phim kinh dị như @125431 hoặc @185171
@@ -11757,7 +11757,7 @@ Bạn thích thể loại phim gì?
 Oh tốt!
 Hmm... tôi thật sự thích @152847
 Một bộ phim kinh điển là @132728
-Cũng là một điều thú vị là @140335
+Cũng là một phim thú vị là @140335
 Có! Tôi muốn xem phim đó. Cảm ơn nhiều !!
 Một kinh điển khác sẽ là @178711
 Tôi không thích Knocked Up nhưng tôi sẽ xem thử Khi Harry gặp Sally
@@ -12194,7 +12194,7 @@ Chúc bạn có một ngày tuyệt vời và tạm biệt!
 Vui vẻ giúp đỡ! Chúc bạn có một ngày tuyệt vời - Tạm biệt!
 xin chào
 Bạn có khỏe không?
-Tốt lắm, ty
+Khỏe lắm, ty
 bạn có khỏe không?
 Tôi siêu tuyệt vời! Bạn thích thể loại phim gì?
 Tôi thích phim như @122385 và @112737
@@ -12282,7 +12282,7 @@ Không có gì! Chúc một ngày vui vẻ! Tạm biệt!
 xin chào
 Bạn ơi!
 bạn có khỏe không?
-Tốt- còn bạn?
+Khỏe- còn bạn?
 Tôi rất khỏe cảm ơn đã hỏi
 bạn thích xem phim thể lọai nào?
 Tôi thích phim như @122385 và @199831
@@ -12472,7 +12472,7 @@ Tuyệt vời!
 Transporter là một người tốt, tôi cũng sẽ xem thử Die hard
 Tôi có thể giới thiệu @127115 hoặc @192815 được không
 Chà, tôi chắc chắn sẽ xem lại cả hai
-Thank nhiều
+Cảm ơn nhiều
 Hân hạnh
 cảm ơn vì đã ghé qua
 Chúc bạn có một ngày tuyệt vời và tạm biệt!
@@ -12686,7 +12686,7 @@ Lựa chọn tốt đấy
 Ngoài ra còn có @191316 cũng rất vui nhộn
 bạn đã xem phim đó chưa?
 Tôi đồng ý kiến. Tôi đã xem phim đó và tôi thích phim đó
-Thank for all your help
+Cảm ơn đã giúp đỡ
 Chúc bạn có một ngày tuyệt vời và tạm biệt!
 Không có gì. Bạn cũng vậy!
 Xin chào. Bạn có khỏe không?
@@ -12737,7 +12737,7 @@ Thật. Tôi chắc rằng bạn đã xem Ma trận đúng không?
 Đúng, và đáng ngạc nhiên không phải là món đồ yêu thích của tôi. Tôi thực sự thích khái niệm này nhưng không phải là một người hâm mộ lớn.
 Vâng, bằng cách nào đó cha mẹ tôi nghĩ rằng đó là một sự song hành đối với Cơ đốc giáo.
 Nhưng @85036 nhìn chung vẫn ổn.
-Đó là một điều thú vị về nó.
+Đó là một phim thú vị về nó.
 Tôi cũng thích @149720 cũng như @141578
 Well cảm ơn đã nói chuyện với tôi.
 Chúc bạn có một ngày tuyệt vời. Tạm biệt
@@ -13136,7 +13136,7 @@ Họ thực sự đang làm Zombielvà 2!
 Tôi chưa xem @160690 nhưng sẽ xem sớm
 Rất tuyệt
 Tôi nóng lòng muốn xem thử
-Thank for all your help
+Cảm ơn đã giúp đỡ
 Chúc bạn có một ngày tuyệt vời
 Nó khá hay. Chúc bạn ngủ ngon! Thank for chat
 tạm biệt!
@@ -13145,7 +13145,7 @@ Xin chào Tôi đang nghĩ đến việc thực hiện một buổi tối xem ph
 Đối với đêm bạn bè, tôi luôn thích một bí ẩn hay để chúng ta có thể giải quyết nó cùng nhau
 @204409 là phim hay
 @184951 luôn là một phim kinh điển
-Tôi chưa xem cái này nhưng nó trông thực sự thú vị.
+Tôi chưa xem cái này nhưng nó có vẻ rất thú vị.
 Đó là một trong những Tôi đã xem trước đây
 Bạn đang muốn xem những bộ phim nào cho buổi tối cùng bạn bè của mình theo thể loại nào?
 Còn về một bộ phim hài hay cho cuối cùng thì sao?
@@ -13417,7 +13417,7 @@ Chúc bạn ngủ ngon! Cảm ơn đã gợi ý!
 Oh yess! Phim đó rất tuyệt
 Bạn cũng tạm biệt
 Chào
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 Tôi đang tìm một bộ phim tương tự như @88487. Bạn có thể giới thiệu một vài lựa chọn?
 @104253 khá hay
 Bạn đã xem @205821 chưa
@@ -13674,7 +13674,7 @@ Vâng- điều đó cũng thực sự tuyệt vời!
 Tôi sẽ xem lại những điều này. Cảm ơn bạn vì những gợi ý tuyệt vời của bạn!
 ngủ ngon!
 @154189 cũng là một bộ phim hay
-Vâng một điều tuyệt vời khác!
+Vâng một phim tuyệt vời khác!
 Không có gì!
 Cảm ơn!
 Xin chào
@@ -13875,7 +13875,7 @@ Tôi cũng không thấy, chúng có đáng thời gian không?
 Họ rất tuyệt vời! Khá sến, nhưng một số hiệu ứng phim kinh dị hay. @135973 cũng tốt!
 Bộ phim hài cuối cùng mà tôi xem là @204331 là phim hay
 Còn @182960 là bộ phim yêu thích của tôi phim kinh dị hài! Siêu hài hước và đẫm máu.
-cảm ơn vì những gợi ý có một điều tuyệt vời
+cảm ơn vì những gợi ý có một phim tuyệt vời
 @204331 khá vui nhộn. ngủ ngon!
 Xin chào bạn khỏe chứ
 Tôi khỏe bạn thì sao
@@ -14038,7 +14038,7 @@ Thế còn phim gì đó như @135485?
 Hmm, tôi cũng thực sự thích @78888
 Tôi chưa từng xem phim đó.
 Hmm không thực sự là những gì Tôi đang tìm kiếm nhưng sẽ xem thử đề xuất đầu tiên
-Thank nhiều
+Cảm ơn nhiều
 Chúc bạn có một ngày tuyệt vời!
 Tôi đoán tôi sẽ cần xem một bộ phim mới
 cám ơn.
@@ -14474,7 +14474,7 @@ Mong rằng bạn thích gợi ý của tôi
 Chào buổi chiều! Hôm nay bạn có khỏe không?
 xin chào
 Tôi rất khỏe cảm ơn đã hỏi
-Bạn quan tâm đến thể loại phim nào?
+Bạn thích thể loại phim nào?
 Tôi đang có tâm trạng cho một phim gì đó như @150889 hoặc @188168
 Thế còn phim @204963 với John travolta? Đó là một bộ phim tuyệt vời.
 Tôi từng xem phim đó và rất thích phim đó
@@ -14511,7 +14511,7 @@ Tạm biệt!
 Xin chào
 tôi là một người biết phim thực sự tuyệt vời
 Xin chào! Tôi đang muốn xem một bộ phim hài lãng mạn. một phim tương tự @132728.
-oh oh để tôi nghĩ ra
+oh oh để tôi nghĩ đã
 Bạn có thể nghĩ ra một phim gì đó. :)
 Bạn đã nghe nói về @140335 hoặc @123015 chưa
 Tôi thích @201259. Tôi đoán tôi thích Meg Ryan.
@@ -14814,7 +14814,7 @@ tôi chưa bao giờ xem nó
 Tôi rất cảm ơn bạn
 tôi sẽ xem thử nó
 Chúc bạn có một ngày tuyệt vời và tạm biệt!
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 chào
 Tôi rất khỏe cảm ơn đã hỏi
 bạn đang tìm phim thể loại nào?
@@ -14834,7 +14834,7 @@ bạn có
 Cảm ơn vì đã giúp đỡ
 Chúc bạn có một ngày tuyệt vời và tạm biệt!
 chào
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 Tôi khỏe chứ?
 tôi khỏe. Cảm ơn.
 Tôi đang tìm kiếm các đề xuất cho một đêm xem phim với bạn bè, có cơ hội nào bạn có thể giúp tôi không?
@@ -14849,7 +14849,7 @@ Cảm ơn nhiều vì những gợi ý của bạn.
 Không sao, hy vọng họ đã giúp đỡ!
 Họ chắc chắn đã làm. Cảm ơn và tạm biệt.
 xin chào
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 Tôi đang tìm một số gợi ý về phim Tôi hy vọng bạn có thể giúp tôi.
 Tôi có thể thử!
 Bạn thích thể loại phim gì?
@@ -14894,7 +14894,7 @@ Bộ phim cuối cùng của tôi ra rạp là @131869.
 Vâng, điều đó là hoàn hảo. Cảm ơn và Chúc bạn có một ngày tuyệt vời.
 tạm biệt.
 Cảm ơn nha! tạm biệt!
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 Chào buổi chiều! tôi khỏe, Mong rằng bạn khỏe! Bạn đang tìm kiếm một gợi ý phim?
 Vâng, tôi rất thích một số gợi ý về phim.
 Đáng kinh ngạc! Bạn đang có tâm trạng làm gì?
@@ -14913,7 +14913,7 @@ Mong rằng điều này đã giúp?
 vâng cám ơn rất nhiều. Chúc bạn có một ngày tuyệt vời và cám ơn.
 tạm biệt.
 Bạn cũng thế! Tạm biệt!
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 Xin chào! Bạn có khỏe không?
 Tôi khỏe. Haha !!
 tôi khỏe cám ơn.
@@ -14979,7 +14979,7 @@ này
 Xin chào! Bạn có khỏe không?
 Tôi cũng vậy
 ?
-Tốt lắm, cảm ơn! Tôi đang có tâm trạng cho một điều gì đó với sự hồi hộp. Chỉ là một ví dụ, tôi thực sự rất thích @112719
+Tốt lắm, cảm ơn! Tôi đang có tâm trạng cho một phim gì đó với sự hồi hộp. Chỉ là một ví dụ, tôi thực sự rất thích @112719
 Như một bộ phim tuyệt vời!
 @98699 chắc chắn
 Phải không? Nó rất hay.
@@ -15330,7 +15330,7 @@ Mặc dù phim đó rất tuyệt, nhưng chúng tôi đã xem nó gần đây 
 @109911
 Được rồi, không có vấn đề gì. Tôi sẽ đề cập đến một phim nữa mà chúng tôi thích: @134157.
 Ồ, Có! @109911. Tôi nhớ tôi thích phim đó, nhưng tôi nhớ rất ít về nó. Chỉ cái tên.
-Nghe có vẻ là một điều tốt để xem.
+Nghe có vẻ là một phim hay để xem.
 Thế còn phim @158528 tôi rất thích phim con men
 Vâng, đó cũng là một bộ phim vui nhộn. Và, tôi có thể chơi bài hát chủ đề trên piano.
 Ấn tượng
@@ -15415,7 +15415,7 @@ Tuy nhiên, cái tên ngôi nhà trên cây khiến nó nghe có vẻ hấp dẫ
 Cảm ơn đã gợi ý!
 ngủ ngon! Tạm biệt.
 Không có gì. chúc ngủ ngon!
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 tôi khỏe, bạn khỏe không
 Tôi khỏe.
 Tôi đang tìm một số phim kinh dị và phim hài hay
@@ -15444,7 +15444,7 @@ tôi hy vọng bạn thích những gợi ý. Chúc bạn có một ngày tuyệ
 Tôi quá tốt 3 lần tôi đen kịt
 Vâng, tôi đã cám ơn, tạm biệt !!
 Xin chào!
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 tôi khỏe!
 Tôi đang muốn có một đêm xem phim với bạn bè, bạn có gợi ý nào không?
 Bạn có thích thú với những bộ phim truyền hình không? @140066 là phim hay.
@@ -15474,7 +15474,7 @@ Tôi chưa xem nó, tôi không thể xem thử nó.
 hop [e you enjoy the suggest. Chúc bạn có một ngày tuyệt vời
 Được chứ. Cảm ơn đã gợi ý! tôi nghĩ tôi sẽ tìm kiếm @119935.
 Tạm biệt!
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 Xin chào! Tôi khỏe. Bạn có biết phim nào tương tự như @201091 mà Tôi có thể thích không?
 Tôi không thích những bộ phim tuổi teen trừ khi chúng thông minh. Ví dụ như @123075.
 Đó là một bộ phim hay. Bạn có thể muốn xem @138780. Đó là một bộ phim rất hay.
@@ -15573,7 +15573,7 @@ Mong rằng tôi đã giúp được bạn ra ngoài?
 Tôi đã nghe nói về phim đó. Ồ vâng, bạn đã giúp. Cảm ơn bạn. tạm biệt.
 tạm biệt.
 Xin chào, bạn có khỏe không?
-Tốt! Tôi thích những bộ phim hài đen tối, như @81385, bạn có gợi ý nào không?
+Khỏe! Tôi thích những bộ phim hài đen tối, như @81385, bạn có gợi ý nào không?
 Bạn đã bao giờ xem @87490 chưa? Chắc chắn là một phim kinh điển.
 Rồi, tôi xem rồi và tôi rất thích. Không đánh nhau trong War Room !!
 Hoặc một bộ phim mà tôi luôn nghĩ là một bộ phim tuyệt vời @94487.
@@ -15618,7 +15618,7 @@ Tôi sẽ phải tra cứu nó.
 Bạn có thích những cái cũ như @148114 không?
 Tôi đã nghe nói về nó nhưng tôi thực sự chưa bao giờ xem nó.
 Tôi cho rằng tôi xem thử nó ngay bây giờ.
-Ồ, và một điều mà tôi nhớ đã làm tôi sợ khi tôi còn nhỏ là @170540. Không biết bây giờ nó có làm tôi sợ không? Tôi nhớ nó rất đẫm máu.
+Ồ, và một phim mà tôi nhớ đã làm tôi sợ khi tôi còn nhỏ là @170540. Không biết bây giờ nó có làm tôi sợ không? Tôi nhớ nó rất đẫm máu.
 Chắc chắn xem @148114. Nó đã được tổ chức tốt.
 tôi cũng chưa xem phim đó.
 Tôi đoán bây giờ tôi có một vài bộ phim để tra cứu.
@@ -15967,7 +15967,7 @@ cũng hy vọng tôi đã giúp
 Vâng bạn đã làm! Cảm ơn bạn!
 Chúc bạn có một ngày tuyệt vời
 Xin chào. Hôm nay bạn có khỏe không?
-Tốt lắm, cảm ơn! Còn bạn thì sao?
+Khỏe lắm, cảm ơn! Còn bạn thì sao?
 Tôi khỏe. Tôi có thể giới thiệu một vài bộ phim cho bạn không? Bạn thích loại nào?
 tôi thật sự thích @112719 và @158571 - đang tìm kiếm thứ gì đó tương tự
 bạn đã xem phim này chưa @139048? Phim đó hay!
@@ -16237,7 +16237,7 @@ bạn cũng vậy
 Xin chào, bạn có thể thích loại phim nào không?
 Hy, bạn của tôi. Lâu rồi không gặp. Bạn dạo này thế nào? Hôm qua, tôi đã xem một bộ phim tuyệt vời với husbvà @204409 của mình. Bạn có thể giới thiệu một phim gì đó tương tự không?
 Tôi cũng đã xem @159657 nhưng tôi thích @204409 khác
-nếu bạn thích những điều bí ẩn, thì có lẽ @112719 sẽ là một điều tốt. Bạn đã xem phim đó chưa?
+nếu bạn thích những điều bí ẩn, thì có lẽ @112719 sẽ là một phim hay. Bạn đã xem phim đó chưa?
 Tôi đã xem @112719 và tôi cũng đọc một cuốn sách. Và bạn hoàn toàn đúng, tôi rất thích nó. @139048 cũng tương tự. Tôi thích những loại phim
 Vì vậy, phim gì khác bạn có thể giới thiệu cho tôi?
 Tôi nghĩ bạn nên xem @111488 hoặc @158571
@@ -16324,7 +16324,7 @@ Phim kinh dị thường có điểm gì đặc biệt.
 Quá đúng! Cảm ơn nhiều vì những gợi ý tuyệt vời đó!
 Chúc ngủ ngon! Tạm biệt!
 Cảm ơn bạn đã ngủ ngon và tạm biệt.
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 Tuyệt vời, cảm ơn bạn nhé Bạn có khỏe không?
 làm rất tuyệt.
 Đáng kinh ngạc! Tôi vừa xem @140066 và @190814 và đang tìm kiếm thứ gì đó tương tự- bạn biết phim nào hay không?
@@ -16343,7 +16343,7 @@ Cảm ơn Bạn cũng vậy, havae một đêm tuyệt vời và tạm biệt.
 Này Bạn có khỏe không?
 bạn thích thể loại phim gì?
 Tôi siêu cảm ơn! Tôi thích xem phim! Bạn đang tìm phim thể loại nào?
-tôi rất thích a little bit of everything, nhưng about a couple phim hành động. Một điều gì đó thú vị cho một đêm xem phim với bạn bè.
+tôi rất thích a little bit of everything, nhưng about a couple phim hành động. Một phim gì đó thú vị cho một đêm xem phim với bạn bè.
 tôi rất thích phim hành động- Tôi rất thích phim võ thuật! @193168 luôn là một phim hay - hài hước và đầy ắp những thước phim hành động!
 tôi rất thích bộ phim đó.
 tôi rất thích phim hành động cũng như tôi bị ám ảnh bởi @183121 và luôn ước mình là một dị nhân, Haha!
@@ -16410,7 +16410,7 @@ Chúc ngủ ngon!
 Chúc ngủ ngon
 Xin chào!
 Bạn thích thể loại phim gì?
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 Tôi thích một chút của tất cả mọi thứ.
 tôi khỏe!
 tôi chưa xem phim nào như @154710 trong một thời gian dài.
@@ -16427,7 +16427,7 @@ Oh yes Đó là bộ phim hay quá. Chà, phim đó rất tuyệt, tôi nghĩ
 Cảm ơn nhiều.
 Không có gì! chúc ngủ ngon!
 tạm biệt.
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 tôi khỏe! Bạn?
 Tương tự.
 Bạn thích thể loại phim gì?
@@ -16912,7 +16912,7 @@ xin chào
 bạn thích thể loại phim gì?
 bạn khỏe không
 tôi vẫn khỏe, cảm ơn! Mong rằng bạn cũng vậy.
-tôi thích những bộ phim kinh dị
+Tôi thích những phim kinh dị
 Ồ, đó là một thể loại tuyệt vời.
 một bạn
 but you xin error
@@ -17044,7 +17044,7 @@ Ví dụ về một bộ phim như thế này mà tôi thích là @203424.
 Vâng, tôi đã xem phim đó rồi. Phim đó hay.
 Bạn có tình cờ xem @155467 không?
 Chưa, tôi không tin là Tôi có.
-Tuy nhiên, nghe có vẻ là một điều tốt. Tôi đã nghe nói về kẻ giết người Zodiac.
+Tuy nhiên, nghe có vẻ là một phim hay. Tôi đã nghe nói về kẻ giết người Zodiac.
 Phim nói về Kẻ giết người hàng loạt và có Robert Downey Jr và do David Fincher đạo diễn
 Bạn sẽ thích phim đó
 Khỏe!
@@ -17067,7 +17067,7 @@ Họ thực sự tuyệt vời và tôi rất thích họ.
 Chúc bạn ngủ ngon! Tôi sẽ .
 Tạm biệt!
 Bạn cũng vậy. Cảm ơn vì cuộc trò chuyện.
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 good cám ơn. Bạn nghĩ gì về bộ phim james bond cuối cùng @183582
 thành thật mà nói thì tôi chưa xem nó.
 Tôi thích phim hành động nhưng luôn thích thể loại siêu anh hùng hơn.
@@ -17136,7 +17136,7 @@ how @88393
 Thế còn phim @150451 bạn đã từng xem phim này chưa?
 Adam Sandler vui nhộn rất tuyệt.
 phim hay quá
-Tôi đã xem @88393 đó là một điều hài hước. nếu bạn thích phim thì bạn sẽ thích @201368.
+Tôi đã xem @88393 đó là một phim hài hước. nếu bạn thích phim thì bạn sẽ thích @201368.
 thêm cách nào @144116
 tôi không biết điều đó mà tôi chưa bao giờ nghe nói về nó.
 cảm ơn Chúc bạn có một ngày tuyệt vời
@@ -17145,7 +17145,7 @@ tạm biệt
 tạm biệt.
 tạm biệt
 xin chào
-Xin chào bạn có khỏe không?
+Xin chào, bạn có khỏe không?
 bạn khỏe không
 ổn định còn bạn
 tôi khỏe cảm ơn.
@@ -17228,7 +17228,7 @@ tạm biệt
 chào
 Này, thế nào rồi?
 bạn có khỏe không?
-tốt
+khỏe
 tôi khỏe cảm ơn.
 bạn thích thể loại phim gì?
 Tôi thích một chút của tất cả mọi thứ.
@@ -17465,7 +17465,7 @@ Chuyến đi của cô gái là bộ phim yêu thích của tôi Tôi không th�
 Đúng! Tiffany thật quá hài hước!
 bạn đã xem phim này chưa @155346 ?!
 Chưa, tôi không tin là Tôi có.
-Quá buồn cười cho chính cô ấy tốt !!
+Quá buồn cười cho chính cô ấy diễn hay !!
 Tôi sẽ xem thử xem sao.
 Đúng! Cô ấy cũng vậy! Yêu sự trung thực của cô ấy!
 You have adam sandler thích ?!
@@ -17817,7 +17817,7 @@ Bạn đang tìm phim thể loại nào?
 Tôi thích một bộ hoạt hình hay như @162647 và @130158
 Tôi thích @84001 một trong những bộ phim yêu thích của tôi.
 tôi cũng rất thích @76483 rất nhiều!
-Ồ, nếu bạn đang nghĩ về hoạt hình, tôi biết chắc chắn một điều gì đó.
+Ồ, nếu bạn đang nghĩ về hoạt hình, tôi biết chắc chắn một phim gì đó.
 Chưa bao giờ thấy phim đó, xin error.
 bạn đã xem phim này chưa @79512?
 Đó là một bộ phim thực sự hay.
@@ -17975,7 +17975,7 @@ Tạm biệt.
 @148245 không hẳn là một vở nhạc kịch, nhưng là một bộ phim tuyệt vời của Johnny Depp!
 tạm biệt! Và cảm ơn một lần nữa.
 Xin chào! Bạn có khỏe không?
-Hôm nay bạn quan tâm đến thể loại phim nào?
+Hôm nay bạn thích thể loại phim nào?
 Xin chào, tôi khỏe. Bạn có khỏe không?
 Hãy đồng hành cùng những bộ hoạt hình như @159885 vì tôi không thể ngừng nói về sự phấn khích của mình đối với @205724
 Tôi cũng không thể đợi cho đến khi nó ra mắt!
@@ -18188,7 +18188,7 @@ Tuy nhiên, tôi chưa xem tâm trạng để làm điều gì đó quá buồn,
 Oh hay, thế còn phim @205480
 Vậy thì ... có lẽ không phải vậy đâu lol
 Vâng, đó là một câu chuyện tình yêu tuyệt vời. Thật đáng buồn, nhưng tôi vẫn nghĩ rằng nó có một khía cạnh tốt khi xem cô ấy già đi.
-Phim này được không @84798 that is a book kinh điển?
+Phim này được không @84798 đó là một bộ phim kinh điển?
 Giá như cô ấy có thể di chuyển qua một chút trên mảnh gỗ đó. cười
 Tôi thực sự rất thích @142573
 LMBO!
@@ -18349,7 +18349,8 @@ Tôi cần một số giới thiệu cho phim hay để xem cùng gia đình.
 tôi đã xem phim đó. Những đứa trẻ của tôi thích phim đó.
 @83552
 @122604
-Tôi chưa xem @205724. Nhưng nó trông rất tuyệt. Những đứa trẻ của tôi thực sự muốn xem nó.
+Tôi chưa xem @205724. Nhưng nó trông rất tuyệt. Những đứa trẻ của Tôi thật sự muốn xem phim đó
+.
 hahahahaha
 Vâng
 có một nigth tuyệt vời
@@ -18442,7 +18443,7 @@ tạm biệt
 Này, thế nào rồi?
 Chào!  Tôi khỏe.
 Bạn có khỏe không?
-Tốt lắm. Chỉ đang tìm kiếm một số gợi ý về bộ phim.
+Khỏe lắm. Chỉ đang tìm kiếm một số gợi ý về bộ phim.
 Bạn thích thể loại phim gì?
 Mọi thứ, lol. Tuy nhiên, tôi có thể đi xem một vài bộ phim hài hay.
 Phim nào đó giống @85159.
@@ -18557,7 +18558,7 @@ xin chào
 bạn khỏe không
 tôi cần sự giúp đỡ của bạn
 tôi khỏe, cảm ơn.
-Bạn quan tâm đến thể loại phim nào?
+Bạn thích thể loại phim nào?
 bạn có thể giúp tôi với một bộ phim
 cho trẻ em
 con tôi
@@ -18598,7 +18599,7 @@ Trên thực tế, chúng tôi xem @83552 bản cũ khoảng một lần mỗi 
 Ngoài ra còn có phần tiếp theo @111429.
 Tôi nghĩ rằng tôi đã chọn @106233 bản cũ. Giáo sư!
 Không sao đâu. Tôi biết những gì bạn muốn nói!
-Vâng, chúng tôi cũng đã xem @111429 mới hơn. tôi nghĩ chúng tôi sẽ thử @83552 mới.
+Vâng, chúng tôi cũng đã xem @111429 mới hơn. tôi nghĩ chúng tôi sẽ xem thử @83552 mới.
 Thưởng thức và Chúc bạn có một ngày tốt lành!
 Bạn cũng vậy. Cảm ơn!
 Chào! Bạn có thể giới thiệu bất kỳ bộ phim hài hay nào không?
@@ -18826,7 +18827,7 @@ Tôi không nhớ anh ấy năm 101479 Ông Woodcook là huấn luyện viên b�
 Đã đến lúc đi xem phim. Tạm biệt
 Cảm ơn!
 Chào. Bạn có khỏe không?
-Tốt lắm. Bạn có khỏe không?
+Khỏe lắm. Bạn có khỏe không?
 Đáng kinh ngạc.
 Bạn thích thể loại phim gì?
 Tôi thích tất cả các loại nội dung. Tôi đang tìm kiếm một phim gì đó vui nhộn để xem tối nay
@@ -19197,7 +19198,7 @@ Thank for all
 chúc ngủ ngon
 Ngủ ngon!
 tạm biệt
-Xin chào, bạn quan tâm đến thể loại phim nào?
+Xin chào, bạn thích thể loại phim nào?
 phim cho trẻ em
 @122604 Là một bộ phim tuyệt vời
 Một phim gì đó cho bạn và những đứa trẻ
@@ -19329,7 +19330,7 @@ Chào, khỏe còn bạn?
 Bạn có thích hoạt hình như @159885, phim mới sẽ ra mắt vào tuần sau @205724
 tôi khỏe cảm ơn đã hỏi.
 Xin lỗi, tôi rất mê hoạt hình ... bạn thích thể loại phim gì?
-Tôi thực sự muốn xem nó
+Tôi thật sự muốn xem phim đó
 Nhưng bạn có thể giới thiệu cho tôi vài phim kinh dị không?
 Vâng, tôi cũng vậy! Đó là lý do tại sao tôi đang ở chế độ hoạt hình lol
 Phim nào đó giống @107175?
@@ -19848,7 +19849,7 @@ Tôi thích @140066 và @168289.
 Tôi chưa từng xem phim nào trong số mấy phim đó hai. Tôi sẽ đưa chúng vào danh sách của tôi
 Vui thích!
 Chào. Bạn có khỏe không?
-Tốt. Kể cho tôi ba bộ phim yêu thích hàng đầu của bạn
+Khỏe. Kể cho tôi ba bộ phim yêu thích hàng đầu của bạn
 Tốt. Tôi đang tìm kiếm một vài bộ phim hài hay được phát hành gần đây.
 tôi thích @95495 @205435 và @174475
 @107826 là vui. @176100 cũng vậy
@@ -19860,7 +19861,7 @@ tôi thích @119662
 Của tôi là @96973
 Tạm biệt.
 Xin chào, bạn có khỏe không?
-Tốt. Kể cho tôi nghe ba bộ phim yêu thích của bạn
+Khỏe. Kể cho tôi nghe ba bộ phim yêu thích của bạn
 Được chứ. . . tôi thích @169419 @78418 và @206044
 bạn đã xem phim này chưa @78340 hoặc @199930
 Tôi đã xem Deadpool, nhưng chưa bao giờ nghe nói về Never Let Me Go. Có hay không?
@@ -19951,7 +19952,7 @@ Tôi không chắc, nhưng tôi có thể xem thử
 không phải ở thời điểm này, thật không may
 Ahhh dang không lo lắng Tôi chắc chắn rằng tôi sẽ có thể tìm thấy nó ở đâu đó thậm chí là cửa hàng video!
 Trên hết (và đáp ứng yêu cầu của tôi), có một bộ hoạt hình của một đạo diễn được đánh giá cao đã truyền cảm hứng cho nhiều yếu tố của @101264, @78453 của Satoshi Kon. Nó không phù hợp với sở thích của tất cả mọi người, nhưng nó có thể đáng đi nếu bạn muốn có một chuyến đi siêu thực như vậy.
-Thật không may, tôi sắp hết giờ, vì vậy tôi sẽ phải dừng lại ở đó. Mong rằng ít nhất một số trong số này hấp dẫn và bạn thấy ít nhất một điều thú vị.
+Thật không may, tôi sắp hết giờ, vì vậy tôi sẽ phải dừng lại ở đó. Mong rằng ít nhất một số trong số này hấp dẫn và bạn thấy ít nhất một phim thú vị.
 chúc buổi học tốt lành.
 Không sao tôi thực sự đánh giá cao suy nghĩ của bạn đốt cháy :)
 Xin chào!
@@ -20153,7 +20154,7 @@ bạn thích thể loại phim gì?
 tôi thích @187028
 Đó là một bộ phim kinh dị thú vị mà tôi nghĩ rằng họ đã làm rất tuyệt trong bản làm lại
 Ồ, tôi chưa bao giờ xem nó, nhưng tôi rất thích phim kinh dị và có một số gợi ý!
-Có một điều mà tôi đã xem trên Netflix vào một ngày cuối tuần mà Tôi không nghĩ rằng mọi người nhận ra sự thật hay bằng một khái niệm thú vị. @110419
+Có một phim mà tôi đã xem trên Netflix vào một ngày cuối tuần mà Tôi không nghĩ rằng mọi người nhận ra sự thật hay bằng một khái niệm thú vị. @110419
 Một kẻ giết người có thể làm cho nạn nhân của mình sống lại. Bạn chỉ cần xem nó. Nó tuyệt thật.
 Ngoài ra, một trong những bộ phim kinh dị yêu thích nhất mọi thời đại của tôi là @180224. Điều đó cũng có một cảm xúc khoa học.
 tôi chưa xem nó, nhưng tôi nghĩ tôi đã xem một bộ phim tương tự với tiền đề đó @204334
@@ -20214,7 +20215,7 @@ Mong rằng tôi đã cho bạn một số ý tưởng hay
 Chúc bạn có một ngày tuyệt vời!
 Chào
 bạn có khỏe không?
-Tốt. Bạn có khỏe không?
+Khỏe. Bạn có khỏe không?
 Tuyệt quá
 bạn đang tìm phim thể loại nào?
 Một phim gì đó đáng sợ.
@@ -20640,7 +20641,7 @@ Hi vọng, chúc bạn có một ngày tốt lành)
 Chúc bạn một ngày tốt lành!
 Xin chào!
 Xin chào bạn của tôi. Hôm nay bạn có khỏe không?
-Tốt. Còn bạn thì sao?
+Khỏe. Còn bạn thì sao?
 Tôi cũng tốt, cảm ơn. Hôm nay tôi giúp được gì cho bạn?
 Tìm kiếm một bộ phim để xem với bạn trai của tôi. Tôi muốn làm cho anh ấy trở nên khó chịu.
 * khó chịu
@@ -20769,7 +20770,7 @@ Hmm... Tôi không nghĩ tôi đã xem một phim từ năm 1979. Điều đó c
 @137927?
 Wow, tôi rất thích @137927, cả phim và chương trình. Tôi cũng thực sự thích @124268
 @187205?
-Đó cũng là một điều tốt. tôi nghĩ rằng tôi sẽ xem thử Oklahoma này từ năm 1979, @77306.
+Đó cũng là một phim hay. tôi nghĩ rằng tôi sẽ xem thử Oklahoma này từ năm 1979, @77306.
 Tôi tò mò về nó bây giờ.
 Cảm ơn về những đề xuất.
 Không có gì. Vui thích. Tạm biệt
@@ -20979,7 +20980,7 @@ tạm biệt
 Xin chào!
 Chào bạn thích thể loại phim gì?? Tôi vừa xem @182858
 Tôi đang có tâm trạng cho một bộ phim với một câu chuyện tình yêu hay. Nhưng, không phải @169159. Một phim gì đó lạc quan hơn một chút.
-@182858 là phim hay, nhưng tôi đang có tâm trạng cho một điều gì đó khác biệt.
+@182858 là phim hay, nhưng tôi đang có tâm trạng cho một phim gì đó khác biệt.
 Phim này được không @197918 hoặc @132728
 Truyện ngôn tình hay mà lạc quan là @77707.
 Tôi thích @77707! Phim này được không @138767
@@ -21308,7 +21309,7 @@ bạn có khỏe không?
 bạn có khỏe không?
 bạn thích thể loại phim gì?
 Tốt lắm. Bạn có khỏe không?
-tốt. cảm ơn.
+Khỏe. cảm ơn.
 Tôi thích @128167 và @201091
 Vâng.
 bạn đã xem phim này chưa @182644
@@ -21338,7 +21339,7 @@ Thật là đáng sợ!
 Tôi đã xem phim bản mới
 Vâng, và nếu bạn có con
 bạn có thể xem @140749
-ồ đó cũng là một điều tốt
+ồ đó cũng là một phim hay
 Tôi thích phim đó
 Có! họ đang
 nếu bạn thích những bộ phim khóc, bạn có thể xem @184782
@@ -21471,7 +21472,7 @@ ngủ ngon
 tôi thích mấy bộ phim đó
 tạm biệt
 bạn có khỏe không?
-tốt
+khỏe
 Còn bạn thì sao?
 bạn thích thể loại phim gì?
 Tôi khỏe.
@@ -21791,7 +21792,7 @@ Bộ phim tuyệt vời
 Vâng, tôi đã suýt khóc lol @185139 là một món ăn ngon
 Tốt*
 Vâng
-được rồi, cho tôi thêm một phim tốt nữa
+được rồi, cho tôi thêm một phim hay nữa
 nếu bạn thích phim truyền hình, tôi sẽ nói @175165
 ok cảm ơn vì những gợi ý. chúc bạn ngủ ngon
 Có cả phim hành động nữa
@@ -22482,7 +22483,7 @@ Anh chàng Jack này mà bạn nói đến là ai?
 @77115 là một nhân vật trong sách mà họ đã biến thành nhân vật trong phim. Anh ấy khá giao nhau.
 Anh ấy có tình cờ trở thành thám tử không?
 Tôi thích @199930 cho phim kinh dị. nhưng có câu hỏi về việc có ai bị giết, nhưng bạn biết kẻ giết người. Đúng, Jack Reacher là một thám tử
-Tôi không nghĩ rằng tôi đã từng thực sự xem một điều bí ẩn.
+Tôi không nghĩ rằng tôi đã từng thực sự xem một phim bí ẩn.
 Tôi vừa hoàn thành @182858
 Tôi khá hấp dẫn.
 Tôi cũng thích @86414
@@ -22566,7 +22567,7 @@ ngủ ngon
 Này không có gì! Tạm biệt
 Chào, bạn đang muốn xem một bộ phim chiến tranh hay? Tôi thích @82421
 Hôm nay bạn có khỏe không?
-tốt
+khỏe
 vâng, tôi rất thích phim chiến tranh
 Tôi chưa từng xem phim đó
 bạn đã xem phim này chưa @114454
@@ -22718,7 +22719,7 @@ phim khác tôi chưa xem, tôi sẽ tính đến nó
 well that is all the things I have
 ngủ ngon
 tối nay bạn thế nào?
-Xin chào bạn có khỏe không? họ giới thiệu cho tôi một bộ phim siêu anh hùng
+Xin chào, bạn có khỏe không? họ giới thiệu cho tôi một bộ phim siêu anh hùng
 khỏe
 @169419 là phim hay
 mẹ tôi đang xem khi chúng ta nói chuyện
@@ -22953,7 +22954,7 @@ tôi rất thích bể bơi chết chóc
 old that something nhưng good
 tạm biệt
 Này Bạn có khỏe không?
-Tốt lắm. Bạn thích thể loại phim gì?
+Khỏe lắm. Bạn thích thể loại phim gì?
 Tôi thích phim như @170119 và @164063 bạn có đề xuất nào không?
 bạn đã xem phim này chưa @184418
 Đó là eery loại
