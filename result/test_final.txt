@@ -3630,7 +3630,7 @@ Xin chào-1
 Thể loại phim nào cũng được luôn.
 Tôi có thể xem đáng sợ hoặc lãng mạn.
 Tôi cũng có thể xem phim hài hoặc phim hành động.
-Tôi có con nên mọi thứ đều thân thiện với gia đình.
+Tôi có con nên mọi thứ đều phù hợp với cả gia đình.
 Phim này được không @141566 bởi Adan Sandler
 Tôi nên xem gì.
 Rồi, tôi xem rồi thể đi xem.
@@ -3839,7 +3839,7 @@ Chào bạn có khỏe không? bạn đã từng xem @182128
 Bạn có khỏe không?
 Chưa, tôi chưa xem nhưng tôi đã nghe thấy nó thật sự hay
 tôi khỏe, còn gì nữa không?
-Tôi giỏi, bạn có thích phim hành động về siêu anh hùng không?
+Tôi khỏe, bạn có thích phim hành động về siêu anh hùng không?
 Vâng, tôi thích phim Marvel
 Vâng, tôi thích phim Marvel
 bộ phim Marvel yêu thích của bạn là gì?
@@ -5141,7 +5141,7 @@ Có! Xem vui vẻ. Rất vui khi nói chuyện với bạn.
 Chúc bạn có một ngày tuyệt vời!
 Bạn cũng tạm biệt
 Xin chào!
-Bạn có biết bộ phim thân thiện với gia đình nào không?
+Bạn có biết bộ phim phù hợp với cả gia đình nào không?
 Chào buổi sáng Bạn đã xem @170119
 Vâng, nhưng nó quá đáng sợ đối với các con tôi.
 đại loại như, @204895
@@ -5745,7 +5745,7 @@ Xin chào Tôi thích một bộ phim hành động hay, bất kỳ gợi ý n
 Tất nhiên, bạn đã xem phim này chưa @174719?
 Chưa, tôi không biết nó là gì?
 Matt Damon tỉnh dậy mà không nhớ mình là ai nhưng anh ấy là một sát thủ được huấn luyện. Anh ta phải tìm ra những gì đang xảy ra và tại sao chính phủ lại theo đuổi anh ta.
-Đó là một trong những bộ phim hay nhất phim hành động. Bạn đã xem phim này chưa @144347? Đó là một yêu thích khác của tôi
+Đó là một trong những bộ phim hay nhất phim hành động. Bạn đã xem phim này chưa @144347? Đó là một phim yêu thích khác của tôi
 được, tuyệt đấy
 Tôi chưa xem phim đó
 Đó là một trong những bộ phim tuyệt vời. Bộ phim hành động yêu thích của bạn là gì? Điều đó có thể giúp tôi giới thiệu phim gì khác đó
@@ -6174,7 +6174,7 @@ Ok tôi sẽ xem Stardust
 Thanls
 cảm ơn!!!
 @135250 cũng là một phim kinh điển
-Những bộ phim phiêu lưu và thân thiện với gia đình như vậy đã đủ cho bạn chưa?
+Những bộ phim phiêu lưu và phù hợp với cả gia đình như vậy đã đủ cho bạn chưa?
 tạm biệt
 Chào!
 chào
@@ -6206,7 +6206,7 @@ Tôi cũng thích phim thuộc thể loại gia đình
 Tôi nên xem những bộ phim nào?
 ooh, bạn đã xem phim này chưa @124485?
 I don't mind watching things giống @131832
-Không thân thiện với gia đình nhưng một bộ phim hài hay
+Không phù hợp với cả gia đình nhưng một bộ phim hài hay
 Được rồi, tôi sẽ thử Spaceballs
 Tôi thậm chí có thể xem hoạt hình như @128782
 Tôi cũng không ngại phim nước ngoài
@@ -6478,7 +6478,7 @@ Vâng, xin vui lòng!
 Chắc chắn bạn đã xem phim này chưa @139964?
 Chưa, tôi sẽ phải tra cứu nó
 Đó là một phiim tuyệt vời.
-Bạn cũng có thể xem @82876. Tôi rất thích cái này nhiều hơn
+Bạn cũng có thể xem @82876. Tôi rất thích phim này nhiều hơn
 Tôi rất thích Ben Stiller. @170722 cũng là một yêu thích.
 Có lẽ sau phim đầu tiên
 @170722 rất tuyệt. Tôi thực sự rất thích xem nó
@@ -7140,7 +7140,7 @@ Chào. Bạn có thể vui lòng giới thiệu một bộ phim hành động ha
 hmm
 bạn có thích @183121
 hoặc @151102
-@151102 là kinh điển. Tôi rất thích cái này!
+@151102 là kinh điển. Tôi rất thích phim này!
 Bạn có thể giới thiệu phim gì khác?
 Tôi thật sự thích @141169
 và @85951
@@ -10694,7 +10694,7 @@ Bạn có khỏe không?
 Bộ phim yêu thích của bạn là gì?
 tôi khỏe, bạn đã hỏi: P
 Tôi thích phim như @205435 bất kỳ đề xuất nào
-Lựa chọn tốt
+Lựa chọn tốt đó
 Tôi muốn giới thiệu @98088 hoặc @165438
 Vâng những điều vui nhộn
 hoặc thậm chí có thể là @194621
@@ -15081,7 +15081,7 @@ Tôi đã rất thích phim đó một chút! Yêu thích các tài liệu tham 
 Cảm ơn đã gợi ý
 YW.
 Chào! Bạn có khỏe không?
-Xin chào, bạn có thể giới thiệu loại phim thân thiện với gia đình nào?
+Xin chào, bạn có thể giới thiệu loại phim phù hợp với cả gia đình nào?
 Tôi đang nghĩ mọi thứ như @151357
 Hiện giờ gia đình tôi rất thích @204651. Nó có âm nhạc tuyệt vời và Hugh Jackman rất tuyệt vời trong đó. Những đứa trẻ của tôi không thể ngừng hát những bài hát!
 Ồ, tôi đã xem @204651 rất tuyệt vời!
@@ -18592,7 +18592,7 @@ Xin chào, bạn có thể vui lòng giới thiệu một bộ phim hành độn
 Chúng rất khó tìm. Hãy để tôi suy nghĩ một chút ...
 Được chứ.
 nếu bạn thích phim hành động cũng thuộc thể loại khoa học viễn tưởng, có @99276 và các phần tiếp theo.
-@83552 là thân thiện với gia đình.
+@83552 là phù hợp với cả gia đình.
 Vâng, tôi thích tất cả các bộ phim của @99276. Gia đình chúng tôi rất thích @83552. Chúng tôi xem nó khoảng một lần một năm. Tôi cũng thích @139354.
 Thế còn phim @184098?
 Trên thực tế, chúng tôi xem @83552 bản cũ khoảng một lần mỗi năm. Chúng tôi chưa xem @83552 mới. Có lẽ chúng tôi sẽ thử. Cảm ơn vì đã gợi ý! We do giống @184098 too.
@@ -20307,7 +20307,7 @@ Xin chào.
 Chào, hôm nay bạn khỏe không?
 Tốt. Bạn có những bộ phim hài thích không?
 Vâng, tôi đồng ý. Bạn có thể giới thiệu một số phim hay không?
-@138962 nếu bạn thích hài kịch độc đáo. @193168 nếu bạn thích phim hành động hài. Còn @182236 nếu bạn đang tìm kiếm thứ gì đó thân thiện với gia đình hơn.
+@138962 nếu bạn thích hài kịch độc đáo. @193168 nếu bạn thích phim hành động hài. Còn @182236 nếu bạn đang tìm kiếm thứ gì đó phù hợp với cả gia đình hơn.
 Nhưng bạn có nhiều lựa chọn hơn. Haha.
 Tôi đã xem Những bà mẹ tồi và Giáo sư Nutty, nhưng không phải Giờ cao điểm. tôi sẽ xem thử.
 Bạn đã xem @206022 mới chưa? Tôi đã xem phim cũ @194609, và tôi chỉ băn khoăn không biết phim mới có hay không?
@@ -21237,7 +21237,7 @@ Nó thực sự cam
 Vâng, tôi chắc chắn có thể thấy mối tương quan đó, bạn đã từng xem @162629 một trong những bộ phim hành động yêu thích của tôi chưa
 Chưa, tôi cũng chưa nghe nói về phim đó. Bạn đã cho tôi một danh sách tuyệt vời. Cảm ơn một nhóm
 Không sao vui vì tôi có thể là người giúp trò chuyện tuyệt vời :) chúc bạn có một buổi tối vui vẻ. Tạm biệt
-Chào. Bạn có thể giới thiệu một vài bộ phim thân thiện với gia đình không?
+Chào. Bạn có thể giới thiệu một vài bộ phim phù hợp với cả gia đình không?
 Sure Thế còn phim @204863 hoặc @178715
 @113972 và @135485 cũng tốt nếu bạn không thích hoạt hình
 Tôi rất thích Jungle Book. Có một phiên bản phim hành động trực tiếp khác sẽ ra mắt trong năm nay. Nó tên là @206092
