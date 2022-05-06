@@ -2109,7 +2109,7 @@ Tôi đã xem phim đầu tiên nhưng không phải cái thứ 2
 Tôi cũng đang mong chờ @205817
 bạn đã xem phim này chưa @152789
 Không có bộ phim Marvel duy nhất mà tôi đã xem là @205163.
-Theo quan điểm của tôi, hầu hết tất cả các bộ phim tuyệt vời đều tuyệt vời! Bạn nên xem thử một số ra!
+Theo quan điểm của tôi, hầu hết tất cả các bộ phim marvel đều tuyệt vời! Bạn nên xem thử một số ra!
 Ok, tôi sẽ làm. Cảm ơn!
 Chào, bạn thích thể loại phim gì?
 Này Bạn có khỏe không?
@@ -5263,7 +5263,7 @@ Chào
 bạn đã xem phim này chưa @204870
 Đó là một bộ phim tuyệt vời mà bạn nên xem
 Chưa, chưa!
-Tôi chắc chắn rằng đó là tất cả các bộ phim tuyệt vời đều tốt.
+Tôi chắc chắn rằng đó là tất cả các bộ phim marvel đều tốt.
 Bạn đã xem gì
 Mặc dù tôi đã thất vọng về @136632
 Vâng tôi nghĩ tất cả chúng ta đều như vậy. Còn @78418 mới thì sao
